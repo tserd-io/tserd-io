@@ -1,4 +1,4 @@
-# Data Platform Engineer
+# Thomas Serdioukov - Data Platform Engineer
 
 I build research systems for testing trading ideas, stress-testing strategy assumptions, and turning messy market hypotheses into reproducible evidence.
 
