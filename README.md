@@ -1,16 +1,52 @@
-## Hi there 👋
+# Data Platform Engineer
 
-<!--
-**tserd-io/tserd-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build research systems for testing trading ideas, stress-testing strategy assumptions, and turning messy market hypotheses into reproducible evidence.
 
-Here are some ideas to get you started:
+Currently working on **Strategy Autopsy**, a research service for systematic traders, finance creators, and small teams who want to understand what breaks a strategy before they trust it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://www.strategyautopsy.com
+
+## Focus
+
+- Client-facing research products
+- Data Engineering, specifically with Cloud platforms and AI/ML workflow enablement.
+- Building better agentic workflow apps
+
+## Current Work
+
+**Strategy Autopsy**  
+A due diligence layer for trading strategies: benchmark selection, cost modeling, robustness checks, regime analysis, and report generation.
+
+The goal is simple: help people find the weak points in a strategy before capital, reputation, or time gets committed to it.
+
+Website: https://www.strategyautopsy.com
+
+## High-Level Accomplishments
+
+- Built production data and AI systems across government, telecom, and financial domains.
+- Designed GenAI document workflows using LangGraph, RAG pipelines, OpenAI tooling, and human-in-the-loop validation.
+- Built cloud-native data platforms with Python, PySpark, SQL, dbt, and Azure Databricks.
+- Delivered ML/data work tied to $45M+ in annualized business impact.
+- Built research and analytics systems for trading, market structure, forecasting, anomaly detection, and decision support.
+- Currently pursuing an M.Sc. in Interdisciplinary Artificial Intelligence at the University of Ottawa.
+
+## Technical Interests
+
+- Python, JavaScript, SQL
+- Backtesting engines and reporting systems
+- Market data engineering
+- Factor research workflows
+- ML modelling and LLM fine-tuning
+- Data quality, reproducibility, and experiment tracking
+- Netlify, serverless functions, automation
+
+## Fun Facts
+
+- Loves tennis and picnics
+- I have a soft spot for trading research, AI infrastructure, and weird edge cases in data.
+- I think “what failed?” is usually a more interesting question than “what worked?”
+
+## Contact
+
+- Website: https://www.strategyautopsy.com
+- GitHub: https://github.com/tserd-io
