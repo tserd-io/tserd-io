@@ -13,8 +13,10 @@ Website: https://www.strategyautopsy.com
 - Building better agentic workflow apps
 
 ## Current Work
-**LLM Starter Platform** 
-AI Platform projects that aims at building a modular LLM platform that can easily plug into your existing provider and have a full workflow trace of requests and decisions made
+
+**LLM Starter Platform**
+
+An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer that can easily plug into your existing provider and have a full workflow trace of requests and decisions made
 see more here: https://github.com/tserd-io/llm-platform-starter
 
 **Strategy Autopsy**  
