@@ -1,15 +1,13 @@
-# Thomas Serdioukov - Data Platform Engineer
+# Thomas Serdioukov - Data Platform Engineer, AI Engineer
 
-I build research systems for testing trading ideas, stress-testing strategy assumptions, and turning messy market hypotheses into reproducible evidence.
+I build research systems, ai platforms, agentic worfklow apps, quantitative systems and data pipelines
 
-Currently working on **Strategy Autopsy**, a research service for systematic traders, finance creators, and small teams who want to understand what breaks a strategy before they trust it.
-
-Website: https://www.strategyautopsy.com
 
 ## Focus
 
 - Client-facing research products
 - Data Engineering, specifically with Cloud platforms and AI/ML workflow enablement.
+- AI Platforms
 - Building better agentic workflow apps
 
 ## Current Work
