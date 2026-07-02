@@ -10,7 +10,7 @@ I build research systems, ai platforms, agentic worfklow apps, quantitative syst
 - AI Platforms
 - Building better agentic workflow apps
 
-## Current Work
+## Current Projects
 
 **LLM Starter Platform**
 
