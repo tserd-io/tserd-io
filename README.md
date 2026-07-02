@@ -55,3 +55,4 @@ Website: https://www.strategyautopsy.com
 
 - Website: https://www.strategyautopsy.com
 - GitHub: https://github.com/tserd-io
+- LinkedIn: hhtps://linkedin.com/thomas-serd
