@@ -1,6 +1,6 @@
 # Thomas Serdioukov - Data Platform Engineer, AI Engineer
 
-I build research systems, ai platforms, agentic worfklow apps, quantitative systems and data pipelines
+I build research systems, AI platforms, agentic worfklow apps, quantitative systems and data pipelines
 
 ## Current Projects
 
