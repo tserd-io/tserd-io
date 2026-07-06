@@ -12,17 +12,14 @@ I build research systems, ai platforms, agentic worfklow apps, quantitative syst
 
 ## Current Projects
 
-**LLM Starter Platform**
+**Blacklight Studio: LLM Starter Platform** *https://github.com/tserd-io/blacklight*
 
-An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer that can easily plug into your existing provider and have a full workflow trace of requests and decisions made
-see more here: https://github.com/tserd-io/llm-platform-starter
+An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer that can easily plug into your existing provider and have a full workflow trace of prompts, decisions, failures, and performance.
 
-**Strategy Autopsy**  
+**Strategy Autopsy** *https://www.strategyautopsy.com*
 A due diligence layer for trading strategies: benchmark selection, cost modeling, robustness checks, regime analysis, and report generation.
 
 The goal is simple: help people find the weak points in a strategy before capital, reputation, or time gets committed to it.
-
-Website: https://www.strategyautopsy.com
 
 ## High-Level Accomplishments
 
