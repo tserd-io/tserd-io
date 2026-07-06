@@ -6,7 +6,7 @@ I build research systems, ai platforms, agentic worfklow apps, quantitative syst
 
 **Blacklight Studio: LLM Starter Platform** | *https://github.com/tserd-io/blacklight*
 
-An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer that can easily plug into your existing provider and have a full workflow trace of prompts, decisions, failures, and performance.
+An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer. It that can easily plug into your existing provider and have a full workflow trace of prompts, decisions, failures, cost and performance.
 
 **Strategy Autopsy** | *https://www.strategyautopsy.com*
 
