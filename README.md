@@ -2,14 +2,6 @@
 
 I build research systems, ai platforms, agentic worfklow apps, quantitative systems and data pipelines
 
-
-## Focus
-
-- Client-facing research products
-- Data Engineering, specifically with Cloud platforms and AI/ML workflow enablement.
-- AI Platforms
-- Building better agentic workflow apps
-
 ## Current Projects
 
 **Blacklight Studio: LLM Starter Platform** | *https://github.com/tserd-io/blacklight*
@@ -21,6 +13,13 @@ An open-source AI Platform that aims at building a modular LLM evaluation and wo
 A due diligence layer for trading strategies: benchmark selection, cost modeling, robustness checks, regime analysis, and report generation.
 
 The goal is simple: help people find the weak points in a strategy before capital, reputation, or time gets committed to it.
+
+## Focus
+
+- Client-facing research products
+- Data Engineering, specifically with Cloud platforms and AI/ML workflow enablement.
+- AI Platforms
+- Building better agentic workflow apps
 
 ## High-Level Accomplishments
 
