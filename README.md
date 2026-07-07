@@ -4,7 +4,7 @@ I build research systems, AI platforms, agentic worfklow apps, quantitative syst
 
 ## Current Projects
 
-**Blacklight Studio: LLM Starter Platform** | *https://github.com/tserd-io/blacklight*
+**Blacklight Studio: AI Platform** | *https://github.com/tserd-io/blacklight*
 
 An open-source AI Platform that aims at building a modular LLM evaluation and workflow optimizer to regulate and govern agents. It that can easily plug into your existing provider and create a full workflow trace of prompts, decisions, failures, cost and performance for your LLM calls. [WIP]: more features will be added over time
 
