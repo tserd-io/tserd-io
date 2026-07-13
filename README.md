@@ -42,7 +42,7 @@ The goal is simple: help people find the weak points in a strategy before capita
 
 ## Fun Facts
 
-- Loves tennis and chess
+- Loves playing tennis, chess, hockey, and time outdoors hiking and camping
 - I have a soft spot for trading research, AI infrastructure, and weird edge cases in data.
 - I think “what failed?” is usually a more interesting question than “what worked?”
 
