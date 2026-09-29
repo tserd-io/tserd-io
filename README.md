@@ -8,7 +8,7 @@ I build research systems, AI platforms, agentic worfklow apps, quantitative syst
 
 An open-source AI workflow control plane that aims at building a modular LLM evaluation, regulation and observability system for internal AI workflows. It can easily plug into your existing provider and create a full workflow trace of prompts, decisions, failures, cost and performance for your LLM calls. 
 
-**Strategy Autopsy** | [WIP] | *https://www.strategyautopsy.com*
+**Strategy Autopsy** | [WIP]
 
 A due diligence layer for trading strategies: benchmark selection, cost modeling, robustness checks, regime analysis, and report generation.
 
