@@ -34,11 +34,10 @@ The goal is simple: help people find the weak points in a strategy before capita
 
 - Python, JavaScript, SQL
 - Backtesting engines and reporting systems
+- AI and data engineering
 - Market data engineering
 - Factor research workflows
-- ML modelling and LLM fine-tuning
-- Data quality, reproducibility, and experiment tracking
-- Netlify, serverless functions, automation
+- ML modeling and LLM fine-tuning
 
 ## Fun Facts
 
